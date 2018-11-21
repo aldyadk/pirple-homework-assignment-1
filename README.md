@@ -22,6 +22,8 @@ localhost:3000/hello?name=yourname
 
 This API will response in JSON format
 
+```sh
 {"response":"Hello there, yourname"}
+```
 
 yourname will default to 'stranger'
